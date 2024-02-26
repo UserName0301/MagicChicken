@@ -63,6 +63,7 @@
     <Compile Include="Assets\Project\Scripts\Test3.cs" />
     <Compile Include="Assets\Project\Scripts\Test.cs" />
     <Compile Include="Assets\Project\Scripts\Test2.cs" />
+    <Compile Include="Assets\Project\Scripts\Test4.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
