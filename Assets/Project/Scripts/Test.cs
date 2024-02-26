@@ -7,7 +7,7 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // hihi
+        // hihi ABC
     }
 
     // Update is called once per frame
